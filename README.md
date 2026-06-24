@@ -7,10 +7,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/shivam1209567/geekForGeeksQuestionSoln/tree/master/0861-flipping-an-image) |
+| [1168-duplicate-zeros](https://github.com/shivam1209567/geekForGeeksQuestionSoln/tree/master/1168-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/shivam1209567/geekForGeeksQuestionSoln/tree/master/0861-flipping-an-image) |
+| [1168-duplicate-zeros](https://github.com/shivam1209567/geekForGeeksQuestionSoln/tree/master/1168-duplicate-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
