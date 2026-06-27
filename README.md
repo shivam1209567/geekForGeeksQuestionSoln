@@ -25,4 +25,20 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/shivam1209567/geekForGeeksQuestionSoln/tree/master/0861-flipping-an-image) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shivam1209567/geekForGeeksQuestionSoln/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shivam1209567/geekForGeeksQuestionSoln/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shivam1209567/geekForGeeksQuestionSoln/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shivam1209567/geekForGeeksQuestionSoln/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
